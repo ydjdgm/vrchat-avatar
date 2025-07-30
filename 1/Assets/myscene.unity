@@ -1666,6 +1666,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1851896730946670191}
   - component: {fileID: 5716033948454573077}
+  - component: {fileID: 5716033948454573078}
   m_Layer: 0
   m_Name: Felis
   m_TagString: Untagged
@@ -4744,6 +4745,24 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &5716033948454573078
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1367004043216999637}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1427037861, guid: 4ecd63eff847044b68db9453ce219299, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  launchedFromSDKPipeline: 0
+  completedSDKPipeline: 0
+  blueprintId: 
+  contentType: 0
+  assetBundleUnityVersion: 
+  fallbackStatus: 0
 --- !u!1 &5718090233238828925
 GameObject:
   m_ObjectHideFlags: 0
