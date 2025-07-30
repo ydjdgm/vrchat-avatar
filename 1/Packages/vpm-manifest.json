@@ -17,6 +17,9 @@
     },
     "dev.vrlabs.av3manager": {
       "version": "2.0.35"
+    },
+    "jp.lilxyzw.liltoon": {
+      "version": "1.10.3"
     }
   },
   "locked": {
@@ -56,6 +59,9 @@
       "dependencies": {
         "com.vrchat.avatars": "3.2 - 3.8"
       }
+    },
+    "jp.lilxyzw.liltoon": {
+      "version": "1.10.3"
     }
   }
 }
