@@ -20,6 +20,9 @@
     },
     "jp.lilxyzw.liltoon": {
       "version": "1.10.3"
+    },
+    "jp.suzuryg.face-emo": {
+      "version": "1.5.5"
     }
   },
   "locked": {
@@ -62,6 +65,9 @@
     },
     "jp.lilxyzw.liltoon": {
       "version": "1.10.3"
+    },
+    "jp.suzuryg.face-emo": {
+      "version": "1.5.5"
     }
   }
 }
