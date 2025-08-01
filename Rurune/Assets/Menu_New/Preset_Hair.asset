@@ -13,4 +13,14 @@ MonoBehaviour:
   m_Name: Preset_Hair
   m_EditorClassIdentifier: 
   Parameters: {fileID: 11400000, guid: ab33368960825474eb83487d302f6743, type: 2}
-  controls: []
+  controls:
+  - name: New Control
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
