@@ -203,6 +203,18 @@
       "source": "embedded",
       "dependencies": {}
     },
+    "kr.needon.modular-auto-closet": {
+      "version": "file:kr.needon.modular-auto-closet",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "kr.needon.modular-auto-toggle": {
+      "version": "file:kr.needon.modular-auto-toggle",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "nadena.dev.modular-avatar": {
       "version": "file:nadena.dev.modular-avatar",
       "depth": 0,

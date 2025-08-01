@@ -3,20 +3,23 @@
     "com.vrchat.core.vpm-resolver": {
       "version": "0.1.29"
     },
+    "kr.needon.modular-auto-closet": {
+      "version": "1.0.2"
+    },
+    "vrchat.blackstartx.gesture-manager": {
+      "version": "3.9.4"
+    },
+    "dev.vrlabs.av3manager": {
+      "version": "2.0.35"
+    },
+    "nadena.dev.modular-avatar": {
+      "version": "1.13.0"
+    },
     "com.vrchat.base": {
       "version": "3.8.2"
     },
     "com.vrchat.avatars": {
       "version": "3.8.2"
-    },
-    "nadena.dev.modular-avatar": {
-      "version": "1.13.0"
-    },
-    "dev.vrlabs.av3manager": {
-      "version": "2.0.35"
-    },
-    "vrchat.blackstartx.gesture-manager": {
-      "version": "3.9.4"
     },
     "jp.suzuryg.face-emo": {
       "version": "1.5.5"
@@ -30,14 +33,20 @@
       "version": "0.1.29",
       "dependencies": {}
     },
-    "com.vrchat.base": {
-      "version": "3.8.2",
+    "kr.needon.modular-auto-closet": {
+      "version": "1.0.2",
       "dependencies": {}
     },
-    "com.vrchat.avatars": {
-      "version": "3.8.2",
+    "vrchat.blackstartx.gesture-manager": {
+      "version": "3.9.4",
       "dependencies": {
-        "com.vrchat.base": "3.8.2"
+        "com.vrchat.avatars": ">=3.5.2 < 3.9.X"
+      }
+    },
+    "dev.vrlabs.av3manager": {
+      "version": "2.0.35",
+      "dependencies": {
+        "com.vrchat.avatars": "3.2 - 3.8"
       }
     },
     "nadena.dev.modular-avatar": {
@@ -51,16 +60,14 @@
       "version": "1.8.2",
       "dependencies": {}
     },
-    "dev.vrlabs.av3manager": {
-      "version": "2.0.35",
-      "dependencies": {
-        "com.vrchat.avatars": "3.2 - 3.8"
-      }
+    "com.vrchat.base": {
+      "version": "3.8.2",
+      "dependencies": {}
     },
-    "vrchat.blackstartx.gesture-manager": {
-      "version": "3.9.4",
+    "com.vrchat.avatars": {
+      "version": "3.8.2",
       "dependencies": {
-        "com.vrchat.avatars": ">=3.5.2 < 3.9.X"
+        "com.vrchat.base": "3.8.2"
       }
     },
     "jp.suzuryg.face-emo": {
