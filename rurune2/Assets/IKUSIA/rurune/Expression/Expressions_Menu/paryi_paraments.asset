@@ -384,11 +384,6 @@ MonoBehaviour:
     saved: 1
     defaultValue: 1
     networkSynced: 1
-  - name: Object7
-    valueType: 2
-    saved: 1
-    defaultValue: 0
-    networkSynced: 1
   - name: jacket
     valueType: 2
     saved: 1

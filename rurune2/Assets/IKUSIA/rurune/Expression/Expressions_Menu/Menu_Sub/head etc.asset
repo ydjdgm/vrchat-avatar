@@ -24,16 +24,6 @@ MonoBehaviour:
     subMenu: {fileID: 0}
     subParameters: []
     labels: []
-  - name: pattun_short
-    icon: {fileID: 0}
-    type: 102
-    parameter:
-      name: Object7
-    value: 1
-    style: 0
-    subMenu: {fileID: 0}
-    subParameters: []
-    labels: []
   - name: sidehair2
     icon: {fileID: 0}
     type: 102
