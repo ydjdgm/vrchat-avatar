@@ -362,7 +362,7 @@ MonoBehaviour:
   - name: Object2
     valueType: 2
     saved: 1
-    defaultValue: 1
+    defaultValue: 0
     networkSynced: 1
   - name: Object3
     valueType: 2
