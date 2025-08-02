@@ -12,5 +12,35 @@ MonoBehaviour:
   m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
   m_Name: Preset_hair_basic
   m_EditorClassIdentifier: 
-  Parameters: {fileID: 0}
-  controls: []
+  Parameters: {fileID: 11400000, guid: ab33368960825474eb83487d302f6743, type: 2}
+  controls:
+  - name: Fronthair1
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: Object1
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: sidehair2
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: Object5
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: hair_2
+    icon: {fileID: 0}
+    type: 102
+    parameter:
+      name: Object6
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

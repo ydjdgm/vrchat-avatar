@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
   m_Name: Preset_cloth_basic
   m_EditorClassIdentifier: 
+  Parameters: {fileID: 11400000, guid: ab33368960825474eb83487d302f6743, type: 2}
   controls:
   - name: jacket
     icon: {fileID: 0}

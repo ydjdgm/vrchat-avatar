@@ -10,27 +10,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
-  m_Name: Preset
+  m_Name: Preset_hair
   m_EditorClassIdentifier: 
   Parameters: {fileID: 11400000, guid: ab33368960825474eb83487d302f6743, type: 2}
   controls:
-  - name: Cloth
+  - name: Basic
     icon: {fileID: 0}
     type: 103
     parameter:
       name: 
     value: 1
     style: 0
-    subMenu: {fileID: 11400000, guid: 737e107ab8f0f784295e49c51bb064fc, type: 2}
-    subParameters: []
-    labels: []
-  - name: Hair
-    icon: {fileID: 0}
-    type: 103
-    parameter:
-      name: 
-    value: 1
-    style: 0
-    subMenu: {fileID: 11400000, guid: 594845e8c092c8740b913ab6351bfcd8, type: 2}
+    subMenu: {fileID: 11400000, guid: d7d2049bd6ff9d64296f741eb9ec8a84, type: 2}
     subParameters: []
     labels: []
