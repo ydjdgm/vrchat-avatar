@@ -21,7 +21,7 @@ MonoBehaviour:
       name: 
     value: 1
     style: 0
-    subMenu: {fileID: 0}
+    subMenu: {fileID: 11400000, guid: 737e107ab8f0f784295e49c51bb064fc, type: 2}
     subParameters: []
     labels: []
   - name: Hair
