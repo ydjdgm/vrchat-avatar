@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
   m_Name: Menu
   m_EditorClassIdentifier: 
+  Parameters: {fileID: 11400000, guid: ab33368960825474eb83487d302f6743, type: 2}
   controls:
   - name: closet
     icon: {fileID: 2800000, guid: 8d2b5c30a28ba4746afb3687725ab0ca, type: 3}
@@ -61,5 +62,15 @@ MonoBehaviour:
     value: 1
     style: 0
     subMenu: {fileID: 11400000, guid: 47faea67167978647bcecf0033f50bb1, type: 2}
+    subParameters: []
+    labels: []
+  - name: Preset
+    icon: {fileID: 0}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 528814fdf95e3a5488e6bd5a3c3bcc26, type: 2}
     subParameters: []
     labels: []
