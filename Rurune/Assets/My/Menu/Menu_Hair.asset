@@ -31,7 +31,7 @@ MonoBehaviour:
       name: 
     value: 1
     style: 0
-    subMenu: {fileID: 0}
+    subMenu: {fileID: 11400000, guid: 72b2cbcb9b0241b4893c134e270ddb1d, type: 2}
     subParameters: []
     labels: []
   - name: Nova
@@ -41,6 +41,6 @@ MonoBehaviour:
       name: 
     value: 1
     style: 0
-    subMenu: {fileID: 0}
+    subMenu: {fileID: 11400000, guid: 72b2cbcb9b0241b4893c134e270ddb1d, type: 2}
     subParameters: []
     labels: []
