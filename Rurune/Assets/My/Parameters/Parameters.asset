@@ -424,3 +424,8 @@ MonoBehaviour:
     saved: 1
     defaultValue: 1
     networkSynced: 1
+  - name: Hair
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
