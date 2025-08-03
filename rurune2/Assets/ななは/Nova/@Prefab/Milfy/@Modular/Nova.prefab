@@ -1,0 +1,511 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5884910364820270128
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3510116852883857322, guid: 20207def896f85549be595143a0f45e7,
+        type: 3}
+      propertyPath: m_Name
+      value: Armature.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6240141553551902078, guid: 20207def896f85549be595143a0f45e7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6240141553551902078, guid: 20207def896f85549be595143a0f45e7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6240141553551902078, guid: 20207def896f85549be595143a0f45e7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6240141553551902078, guid: 20207def896f85549be595143a0f45e7,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6240141553551902078, guid: 20207def896f85549be595143a0f45e7,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6240141553551902078, guid: 20207def896f85549be595143a0f45e7,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6240141553551902078, guid: 20207def896f85549be595143a0f45e7,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6240141553551902078, guid: 20207def896f85549be595143a0f45e7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6240141553551902078, guid: 20207def896f85549be595143a0f45e7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6240141553551902078, guid: 20207def896f85549be595143a0f45e7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6760676010195017668, guid: 20207def896f85549be595143a0f45e7,
+        type: 3}
+      propertyPath: m_Name
+      value: Nova Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 6760676010195017668, guid: 20207def896f85549be595143a0f45e7,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7849381762290402108}
+    - targetCorrespondingSourceObject: {fileID: 6760676010195017668, guid: 20207def896f85549be595143a0f45e7,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7565295461322980836}
+    - targetCorrespondingSourceObject: {fileID: 6760676010195017668, guid: 20207def896f85549be595143a0f45e7,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3002140324774428306}
+    - targetCorrespondingSourceObject: {fileID: 6760676010195017668, guid: 20207def896f85549be595143a0f45e7,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3048985311816588175}
+    - targetCorrespondingSourceObject: {fileID: 6760676010195017668, guid: 20207def896f85549be595143a0f45e7,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4615677037761094130}
+    - targetCorrespondingSourceObject: {fileID: 3510116852883857322, guid: 20207def896f85549be595143a0f45e7,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1925233412085719628}
+    - targetCorrespondingSourceObject: {fileID: 7002633132267302566, guid: 20207def896f85549be595143a0f45e7,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 784025652975595058}
+    - targetCorrespondingSourceObject: {fileID: 4153584752344313779, guid: 20207def896f85549be595143a0f45e7,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5393260730365889773}
+    - targetCorrespondingSourceObject: {fileID: 1760548519315043673, guid: 20207def896f85549be595143a0f45e7,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2908742080890431726}
+    - targetCorrespondingSourceObject: {fileID: 247157302816653535, guid: 20207def896f85549be595143a0f45e7,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5296633082280730734}
+    - targetCorrespondingSourceObject: {fileID: 6681682179234316063, guid: 20207def896f85549be595143a0f45e7,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3947209664317336040}
+    - targetCorrespondingSourceObject: {fileID: 2710058796231818574, guid: 20207def896f85549be595143a0f45e7,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 6563571791307334614}
+  m_SourcePrefab: {fileID: 100100000, guid: 20207def896f85549be595143a0f45e7, type: 3}
+--- !u!1 &898989083367158772 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6760676010195017668, guid: 20207def896f85549be595143a0f45e7,
+    type: 3}
+  m_PrefabInstance: {fileID: 5884910364820270128}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &7849381762290402108
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 898989083367158772}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 560fdafd46c74b2db6422fdf0e7f2363, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  InheritProbeAnchor: 1
+  ProbeAnchor:
+    referencePath: AutoAnchorObject
+  InheritBounds: 1
+  RootBone:
+    referencePath: AutoAnchorObject
+  Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 1, y: 1, z: 1}
+--- !u!114 &7565295461322980836
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 898989083367158772}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b29d45007c5493d926d2cd45a489529, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Control:
+    name: 
+    icon: {fileID: 2800000, guid: 6c7795effd155c248b25250172ea4844, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 260cebfe0b6fceb47858a1d58af950b1, type: 2}
+    subParameters: []
+    labels: []
+  MenuSource: 0
+  menuSource_otherObjectChildren: {fileID: 0}
+  isSynced: 1
+  isSaved: 1
+--- !u!114 &3002140324774428306
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 898989083367158772}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71a96d4ea0c344f39e277d82035bf9bd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  parameters:
+  - nameOrPrefix: N_Wing
+    remapTo: 
+    internalParameter: 0
+    isPrefix: 0
+    syncType: 3
+    localOnly: 0
+    defaultValue: 1
+    saved: 1
+    hasExplicitDefaultValue: 1
+    m_overrideAnimatorDefaults: 0
+  - nameOrPrefix: N_Tail
+    remapTo: 
+    internalParameter: 0
+    isPrefix: 0
+    syncType: 3
+    localOnly: 0
+    defaultValue: 1
+    saved: 1
+    hasExplicitDefaultValue: 1
+    m_overrideAnimatorDefaults: 0
+  - nameOrPrefix: N_Wing_Off
+    remapTo: 
+    internalParameter: 0
+    isPrefix: 0
+    syncType: 3
+    localOnly: 0
+    defaultValue: 0
+    saved: 1
+    hasExplicitDefaultValue: 1
+    m_overrideAnimatorDefaults: 0
+  - nameOrPrefix: N_Tail_Off
+    remapTo: 
+    internalParameter: 0
+    isPrefix: 0
+    syncType: 3
+    localOnly: 0
+    defaultValue: 0
+    saved: 1
+    hasExplicitDefaultValue: 1
+    m_overrideAnimatorDefaults: 0
+  - nameOrPrefix: N_Braid_Off
+    remapTo: 
+    internalParameter: 0
+    isPrefix: 0
+    syncType: 3
+    localOnly: 0
+    defaultValue: 0
+    saved: 1
+    hasExplicitDefaultValue: 1
+    m_overrideAnimatorDefaults: 0
+  - nameOrPrefix: N_Twin_Off
+    remapTo: 
+    internalParameter: 0
+    isPrefix: 0
+    syncType: 3
+    localOnly: 0
+    defaultValue: 0
+    saved: 1
+    hasExplicitDefaultValue: 1
+    m_overrideAnimatorDefaults: 0
+--- !u!114 &3048985311816588175
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 898989083367158772}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bb122659f724ebf85fe095ac02dc339, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animator: {fileID: 9100000, guid: 6915f821ddf9f2045aca82f60953798b, type: 2}
+  layerType: 5
+  deleteAttachedAnimator: 0
+  pathMode: 1
+  matchAvatarWriteDefaults: 0
+  relativePathRoot:
+    referencePath: 
+  layerPriority: 0
+--- !u!114 &4615677037761094130
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 898989083367158772}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ef83cb0c23d4d7c9d41021e544a1978, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  menuToAppend: {fileID: 0}
+  installTargetMenu: {fileID: 0}
+--- !u!1 &941670439022875439 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6681682179234316063, guid: 20207def896f85549be595143a0f45e7,
+    type: 3}
+  m_PrefabInstance: {fileID: 5884910364820270128}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &3947209664317336040
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 941670439022875439}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fd7cab7d93b403280f2f9da978d8a4f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Bindings:
+  - ReferenceMesh:
+      referencePath: Nova/Side_Braid
+    Blendshape: Breast_Big
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Nova/Side_Braid
+    Blendshape: Move << >>
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Nova/Side_Braid
+    Blendshape: Short
+    LocalBlendshape: 
+--- !u!1 &3496270467718447766 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7002633132267302566, guid: 20207def896f85549be595143a0f45e7,
+    type: 3}
+  m_PrefabInstance: {fileID: 5884910364820270128}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &784025652975595058
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3496270467718447766}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fd7cab7d93b403280f2f9da978d8a4f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Bindings:
+  - ReferenceMesh:
+      referencePath: Nova/Side_Braid
+    Blendshape: Breast_Big
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Nova/Side_Braid
+    Blendshape: Move << >>
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Nova/Side_Braid
+    Blendshape: Short
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Nova/Side_Braid
+    Blendshape: Volume_Down
+    LocalBlendshape: 
+--- !u!1 &5315900405341526377 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1760548519315043673, guid: 20207def896f85549be595143a0f45e7,
+    type: 3}
+  m_PrefabInstance: {fileID: 5884910364820270128}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &2908742080890431726
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5315900405341526377}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fd7cab7d93b403280f2f9da978d8a4f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Bindings:
+  - ReferenceMesh:
+      referencePath: Nova/~Horn
+    Blendshape: Big
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Nova/~Horn
+    Blendshape: Small
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Nova/~Horn
+    Blendshape: Tilt_X
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Nova/~Horn
+    Blendshape: Tilt_Z
+    LocalBlendshape: 
+--- !u!1 &5964299235467177199 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 247157302816653535, guid: 20207def896f85549be595143a0f45e7,
+    type: 3}
+  m_PrefabInstance: {fileID: 5884910364820270128}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &5296633082280730734
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5964299235467177199}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fd7cab7d93b403280f2f9da978d8a4f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Bindings:
+  - ReferenceMesh:
+      referencePath: Nova/~Horn
+    Blendshape: Big
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Nova/~Horn
+    Blendshape: Small
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Nova/~Horn
+    Blendshape: Tilt_X
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Nova/~Horn
+    Blendshape: Tilt_Z
+    LocalBlendshape: 
+--- !u!1 &6997774007212798874 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3510116852883857322, guid: 20207def896f85549be595143a0f45e7,
+    type: 3}
+  m_PrefabInstance: {fileID: 5884910364820270128}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1925233412085719628
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6997774007212798874}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2df373bf91cf30b4bbd495e11cb1a2ec, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mergeTarget:
+    referencePath: Armature
+  prefix: 
+  suffix: 
+  legacyLocked: 0
+  LockMode: 2
+  mangleNames: 1
+--- !u!1 &7498240076591547267 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4153584752344313779, guid: 20207def896f85549be595143a0f45e7,
+    type: 3}
+  m_PrefabInstance: {fileID: 5884910364820270128}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &5393260730365889773
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7498240076591547267}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fd7cab7d93b403280f2f9da978d8a4f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Bindings:
+  - ReferenceMesh:
+      referencePath: Nova/Side_Braid
+    Blendshape: Breast_Big
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Nova/Side_Braid
+    Blendshape: Move << >>
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Nova/Side_Braid
+    Blendshape: Short
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Nova/Side_Braid
+    Blendshape: Volume_Down
+    LocalBlendshape: 
+--- !u!1 &8374292675560575358 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2710058796231818574, guid: 20207def896f85549be595143a0f45e7,
+    type: 3}
+  m_PrefabInstance: {fileID: 5884910364820270128}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &6563571791307334614
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8374292675560575358}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fd7cab7d93b403280f2f9da978d8a4f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Bindings:
+  - ReferenceMesh:
+      referencePath: Nova/~Wing
+    Blendshape: Big
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Nova/~Wing
+    Blendshape: Small
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Nova/~Wing
+    Blendshape: Tilt
+    LocalBlendshape: 

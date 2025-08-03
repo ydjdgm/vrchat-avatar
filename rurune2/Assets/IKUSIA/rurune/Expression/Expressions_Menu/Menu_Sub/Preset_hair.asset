@@ -24,3 +24,13 @@ MonoBehaviour:
     subMenu: {fileID: 11400000, guid: d7d2049bd6ff9d64296f741eb9ec8a84, type: 2}
     subParameters: []
     labels: []
+  - name: One Touch
+    icon: {fileID: 0}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 248d4870933a88246b9b93aad3416ea0, type: 2}
+    subParameters: []
+    labels: []
