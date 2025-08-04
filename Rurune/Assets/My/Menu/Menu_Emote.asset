@@ -21,7 +21,7 @@ MonoBehaviour:
       name: 
     value: 1
     style: 0
-    subMenu: {fileID: 0}
+    subMenu: {fileID: 11400000, guid: c74493743a8f52842aa2bccd9e9d7c01, type: 2}
     subParameters: []
     labels: []
   - name: Others
@@ -31,6 +31,6 @@ MonoBehaviour:
       name: 
     value: 1
     style: 0
-    subMenu: {fileID: 11400000, guid: 9d96cb675fac95242992f76d64bbe77f, type: 2}
+    subMenu: {fileID: 11400000, guid: 857eccd8bc9cb644bb2da0a38a445ab0, type: 2}
     subParameters: []
     labels: []
