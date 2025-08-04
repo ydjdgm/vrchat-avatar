@@ -429,3 +429,8 @@ MonoBehaviour:
     saved: 1
     defaultValue: 0
     networkSynced: 1
+  - name: Tail
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1

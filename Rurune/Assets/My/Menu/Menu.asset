@@ -34,3 +34,13 @@ MonoBehaviour:
     subMenu: {fileID: 11400000, guid: 091fb1521cc04f1468c33d55014f509f, type: 2}
     subParameters: []
     labels: []
+  - name: Gimmik
+    icon: {fileID: 2800000, guid: 77aab4a8361dbe54a81217ab6ba2696b, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 165142a343903074797c1b552163cb6e, type: 2}
+    subParameters: []
+    labels: []
