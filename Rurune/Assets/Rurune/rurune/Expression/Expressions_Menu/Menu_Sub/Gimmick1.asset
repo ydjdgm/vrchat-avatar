@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
   m_Name: Gimmick1
   m_EditorClassIdentifier: 
+  Parameters: {fileID: 0}
   controls:
   - name: Light_Gun
     icon: {fileID: 2800000, guid: a625ae5bdfe251141b342cf8539b9f9a, type: 3}

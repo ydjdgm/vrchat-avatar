@@ -12,5 +12,66 @@ MonoBehaviour:
   m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
   m_Name: Menu_Gimmik
   m_EditorClassIdentifier: 
-  Parameters: {fileID: 0}
-  controls: []
+  Parameters: {fileID: 11400000, guid: 0a29ac8d6ffacdd48be1f9e07d13baf0, type: 2}
+  controls:
+  - name: Fly
+    icon: {fileID: 2800000, guid: 1bdd64fbf77ce344b99c3037068aa2bd, type: 3}
+    type: 102
+    parameter:
+      name: JumpCollider
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: TPS
+    icon: {fileID: 2800000, guid: c0938e51622b4bc4d985a343bff95291, type: 3}
+    type: 102
+    parameter:
+      name: TPS
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Pet
+    icon: {fileID: 0}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: AFK
+    icon: {fileID: 2800000, guid: 8489c5d41d594f9478c40c795b7fc4af, type: 3}
+    type: 102
+    parameter:
+      name: paryi_AFK
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Breast Size
+    icon: {fileID: 2800000, guid: 2d639571211723640aec5584cc2bb65b, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: BreastSize
+    labels: []
+  - name: Emote
+    icon: {fileID: 2800000, guid: 30f81358e04c80042b06a89f5cc8d04d, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
