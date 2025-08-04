@@ -64,16 +64,6 @@ MonoBehaviour:
     subMenu: {fileID: 0}
     subParameters: []
     labels: []
-  - name: hair_2
-    icon: {fileID: 0}
-    type: 102
-    parameter:
-      name: Object6
-    value: 1
-    style: 0
-    subMenu: {fileID: 0}
-    subParameters: []
-    labels: []
   - name: Headphone
     icon: {fileID: 0}
     type: 102
