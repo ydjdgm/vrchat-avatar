@@ -439,3 +439,8 @@ MonoBehaviour:
     saved: 1
     defaultValue: 0
     networkSynced: 1
+  - name: Cloth_OneClick
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1

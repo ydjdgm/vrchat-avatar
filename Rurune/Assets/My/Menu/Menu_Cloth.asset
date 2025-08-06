@@ -21,7 +21,7 @@ MonoBehaviour:
       name: 
     value: 1
     style: 0
-    subMenu: {fileID: 0}
+    subMenu: {fileID: 11400000, guid: 4c473b44636290d46a65de596470a2ea, type: 2}
     subParameters: []
     labels: []
   - name: Basic
